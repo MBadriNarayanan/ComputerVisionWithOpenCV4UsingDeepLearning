@@ -2,7 +2,7 @@
 
 Course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
-[Course Certificate]()
+## [Course Certificate](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/blob/master/Course%20Certificate.pdf)
 
 ## [Section 2 : Basics Of OpenCV](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/tree/master/Section2)
 
@@ -16,6 +16,6 @@ Course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
 ## [Section 7 : Facial Landmark Identification and Augmented Reality](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/tree/master/Section7)
 
-## [Section 9 : ]()
+## [Section 9 : Object Tracking and Motion Analysis](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/tree/master/Section9)
 
 ## [15 Mini Projects Done as part of this course](https://github.com/MBadriNarayanan/OpenCVMiniProjects)
