@@ -18,4 +18,6 @@ Course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
 ## [Section 9 : Object Tracking and Motion Analysis](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/tree/master/Section9)
 
+## [Section 10 : Photo Denoising](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning/tree/master/Section10)
+
 ## [15 Mini Projects Done as part of this course](https://github.com/MBadriNarayanan/OpenCVMiniProjects)
